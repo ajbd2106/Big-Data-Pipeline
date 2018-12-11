@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>from-hive-redis-to-spark-to-hive</name>
+	<name>from-kafka-to-hive</name>
 	<comment></comment>
 	<projects>
 	</projects>
