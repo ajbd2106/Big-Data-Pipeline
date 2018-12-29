@@ -133,9 +133,4 @@ venv.bak/
 
 
 
-
-
-from-data-source-to-kafka/sample_data/bad_data.csv
-from-data-source-to-kafka/sample_data/data.csv
-from-hive-redis-to-spark-to-hive/src/main/java/mjaksic/from_hive_redis_to_spark_to_hive/hive/streaming/Streamer.java
-from-kafka-to-hive/src/main/java/mjaksic/from_kafka_to_hive/spark/SparkHiveAmalgamation.java
+# Privacy excludes
