@@ -1,6 +1,6 @@
 ## Big Data Pipeline
 
-The pipeline is made out of multiple pipe segments which can, but don't have to, be connected to each other.  
+The pipeline is made out of multiple pipe segments which can, but don't have to, connect to each other.  
 
 ### Data Source to Kafka Pipe Segment
 
@@ -10,7 +10,7 @@ An Apache Kafka Producer written in Python.
 
 For more information, take a look at the project's README.  
 
-### Hive Redis To Spark To Hive
+### Hive Redis To Spark To Hive Pipe Segment
 
 A pipe segment written in Java, constructed as a Maven project.  
 
@@ -21,7 +21,7 @@ A pipe segment written in Java, constructed as a Maven project.
 
 For more information, take a look at the project's Javadocs and source code.  
 
-### Kafka To Hive
+### Kafka To Hive Pipe Segment
 
 An Apache Kafka Consumer written in Java, constructed as a Maven project.  
 
